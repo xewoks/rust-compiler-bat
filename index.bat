@@ -28,6 +28,9 @@ pause
 
 
 :init
+cls
+
+echo running cargo init...
 
 SET mypath=%~dp0
 cd %mypath%
